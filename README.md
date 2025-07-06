@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RAG PDF Deep Learning
 
 A simple Retrieval-Augmented Generation (RAG) project using LangChain, FAISS, and OpenAI GPT on a custom PDF.
@@ -61,3 +62,7 @@ A simple Retrieval-Augmented Generation (RAG) project using LangChain, FAISS, an
 
 ## License
 MIT
+=======
+# rag-pdf-deep-learning
+A simple RAG system
+>>>>>>> 4599b97c5d8bf431e46de393882aef4638306595
